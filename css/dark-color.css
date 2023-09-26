@@ -29,7 +29,7 @@ nav ul ul li {
 	background-image: url(../images/resources/bg2.jpg);
 }
 .choosing-que h3:before {
-	background-color: #ffa800;
+	background-color: #428e9a;
 }
 .listing-info > a {
 	color: #999999;
@@ -38,7 +38,7 @@ nav ul ul li {
 	color: #fff;
 }
 .choosing-que h3 {
-	color: #ffa800;
+	color: #428e9a;
 }
 .choosing-que p {
 	color: #81909b;
@@ -142,7 +142,7 @@ p {
 	color: #ffffff;
 }
 .srvc-icon span {
-	color: #ffa800;
+	color: #428e9a;
 }
 .service-details {
 	border: 1px solid #435361;
@@ -164,7 +164,7 @@ p {
 	border-top: 1px solid #425c70;
 	border-right: 1px solid #425c70;
 	border-bottom: 1px solid #425c70;
-	border-left: 5px solid #ffa800;
+	border-left: 5px solid #428e9a;
 }
 .footer-style2 {
 	background-color: #031f35;
@@ -407,7 +407,7 @@ p {
 	border-bottom: 1px solid #213444;
 }
 .pgr-controls a:hover {
-	color: #ffa800;
+	color: #428e9a;
 }
 .tags-list ul li {
 	color: #999999;

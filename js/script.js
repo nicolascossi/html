@@ -1,3 +1,9 @@
+
+
+
+
+// ============== SCRIPTS ORIGINALES ============ 
+
 $(window).on("load", function() {
     "use strict";
 
@@ -100,5 +106,24 @@ $(window).on("load", function() {
 
 
 });
+
+
+// ============== SCRIPT COSSI ============ 
+
+// Obtén el botón por su ID
+const boton = document.getElementById('button-seguimiento-1');
+
+// Agrega un evento de clic al botón
+boton.addEventListener('click', function() {
+    // Redirige a la URL deseada
+    window.location.href = '/torrefaroiseguimiento.html';
+});
+
+document.getElementById('button-descargar-1').addEventListener('click', function() {
+  // Simular el clic en el enlace oculto para iniciar la descarga
+  document.getElementById('enlace-pdf').click();
+});
+
+
 
 
